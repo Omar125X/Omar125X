@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Omar
+# Hi there 👋, I'm Omar
 
 -----
 
