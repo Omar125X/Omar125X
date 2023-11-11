@@ -3,9 +3,7 @@
   <h1 style="display: inline-block"> Hi there 👋, I'm Omar</h1>
 </div>
 
-<div align="center">
-  <h2>Software Engineer & lifelong student.</h2>
-</div>
+  <h2 style="text-align: center;" >Software Engineer & lifelong student.</h2>
 
 <!--Snake-->
 <div align="center">
