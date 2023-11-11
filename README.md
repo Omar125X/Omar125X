@@ -1,10 +1,9 @@
 
 <div align="center">
   <h1 style="display: inline-block"> Hi there 👋, I'm Omar</h1>
+  <br>
+  <h4 style="display: inline-block">Software Engineer & lifelong student.</h4>
 </div>
-
-#### Software Engineer & lifelong student.
-
 
 <!--Snake-->
 <div align="center">
