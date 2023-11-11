@@ -3,8 +3,6 @@
   <h1 style="display: inline-block"> Hi there 👋, I'm Omar</h1>
 </div>
 
-  <h2 style="text-align: center;" >Software Engineer & lifelong student.</h2>
-
 <!--Snake-->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
