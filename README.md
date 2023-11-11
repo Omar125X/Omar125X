@@ -3,9 +3,8 @@
   <h1 style="display: inline-block"> Hi there 👋, I'm Omar</h1>
 </div>
 
-####Software Engineer & lifelong student.
+#### Software Engineer & lifelong student.
 
------
 
 <!--Snake-->
 <div align="center">
@@ -13,7 +12,6 @@
        alt="snake" /></a>
 </div>
 
------
 
 
 <!--
