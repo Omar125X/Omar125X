@@ -1,4 +1,9 @@
-# Hi there 👋, I'm Omar
+
+<div align="center">
+  <h1 style="display: inline-block"> Hi there 👋, I'm Omar</h1>
+</div>
+
+####Software Engineer & lifelong student.
 
 -----
 
@@ -8,8 +13,7 @@
        alt="snake" /></a>
 </div>
 
-<br>
-
+-----
 
 
 <!--
