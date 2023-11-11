@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I'm Omar
+
+<br>
+-----
+
+!--Snake-->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+<br>
+-----
+
 
 <!--
 **Omar125X/Omar125X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
